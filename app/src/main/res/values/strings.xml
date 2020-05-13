@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lecture19Homework</string>
+    <string name="enter_your_password" />
+    <string name="forgot_password" />
+    <string name="log_in" />
+    <string name="no_acc">No Acc?</string>
+    <string name="sign_up" />
+    <string name="enter_your_email">Enter your email</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="your_password">Your Password</string>
+    <string name="your_email">Your Email</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="password">Password</string>
+    <string name="registration">Registration</string>
+</resources>
